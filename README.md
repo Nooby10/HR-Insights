@@ -1,4 +1,4 @@
 # HR-Insights
-An predictive analysis project on Human Resource.
+Predictive Anaysis for Human Resource.
 
-A predictive analysis project on Human Resource. This is where I start getting my hands dirty by working on an HR data set. I go off to get the data set, clean it up, preprocess and engineer it. I will be building and training a model to predict whether or not an employee is due for promotion, on the basis of some variables.
+I have carried out a task on predictive analysis in HR, using statistics and building a statistical learning model to make prediction for when an employee should be eligible for promotion in an organization. In addition, I explored if certain employee had been done based on merit, and what might be responsible for a supposedly promoted employee to not have been promoted yet.
